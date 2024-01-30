@@ -1,0 +1,7 @@
+{
+  "name": "Hito2T",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
