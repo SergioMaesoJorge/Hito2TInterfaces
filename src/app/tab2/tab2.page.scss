@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Aplicar margen automático al título */
+.title {
+  font-size: 24px;
+  margin-top: 20px;
+  margin: auto; /* Agregar margen automático */
+}
+
+/* Aplicar margen automático a la imagen */
+.image-container img {
+  margin: auto; /* Agregar margen automático */
+}
+
+/* Aplicar margen automático al reproductor de audio */
+.audio-player {
+  margin: auto; /* Agregar margen automático */
+}
